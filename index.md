@@ -49,7 +49,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="general">General Information</h2>
 
 This one-day workshop will introduce students to the fundamentals of computer programming,
-based on lessons developed by the Library Carpentry initiative (see below for details).
+based on lessons developed by the <a href="{{site.lc_site}}">Library Carpentry</a> initiative.
 
 The day will start with an interactive session in which attendees will learn how to interact
 with computers using the command line and how to automate simple tasks. Through the development
@@ -62,7 +62,7 @@ We will conclude with an overview of free and openly accessible tools
 that can help with repetitive tasks, as well as resources for further learning and getting help.
 
 Workshop participants should come with their own laptop computer (Windows, macOS or Linux).
-Windows users will be required to install software PRIOR to attending the workshop, 
+Windows users will be required to install software <strong>before attending the workshop</strong>, 
 <a href="#setup">see setup instructions below</a>.
 
 {% comment %}
