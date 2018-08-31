@@ -46,12 +46,24 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
+
+This one-day workshop will introduce students to the fundamentals of computer programming,
+based on lessons developed by the Library Carpentry initiative (see below for details).
+
+The day will start with an interactive session in which attendees will learn how to interact
+with computers using the command line and how to automate simple tasks. Through the development
+of a simple computer program, foundational concepts of computer automation and programming will
+be introduced. The second part of the workshop will highlight the importance of clean, structured
+data and discuss case studies of data cleanup and manipulation in libraries and archives.
+Attendees will be encouraged to share their own examples of such scenarios.
+
+We will conclude with an overview of free and openly accessible tools
+that can help with repetitive tasks, as well as resources for further learning and getting help.
+
+Workshop participants should come with their own laptop computer (Windows, macOS or Linux).
+Windows users will be required to install software PRIOR to attending the workshop, 
+<a href="#setup">see setup instructions below</a>.
 
 {% comment %}
   INTRODUCTION
